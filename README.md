@@ -30,3 +30,4 @@ Finally, I analyzed and add the key insights, such as:
 Sales growth compared to previous periods
 Best-performing categories and regions
 Customer segments contributing the most revenue
+<img width="1536" height="805" alt="Image" src="https://github.com/user-attachments/assets/bd8a2cc0-bd44-4fad-8318-f7e64ad6aa7f" />
